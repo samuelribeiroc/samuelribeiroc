@@ -1,4 +1,4 @@
-### Oi! Prazer, Samuel 👋
+### Hello, stranger. 👋
 
 Apaixonado por design, astrofísica, e nas horas vagas, programo 👨‍💻
 
