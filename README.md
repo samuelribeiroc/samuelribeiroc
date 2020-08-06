@@ -1,6 +1,6 @@
 ### Oi! Prazer, Samuel 👋
 
-<!--
+
 **samuelribeiroc/samuelribeiroc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-samuel.costa@ccc.ufcg.edu.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samuel.costa@ccc.ufcg.edu.br)](mailto:samuel.costa@ccc.ufcg.edu.br)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
