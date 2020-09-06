@@ -3,7 +3,7 @@
 <h1>Hello, stranger. <img src="https://i.ibb.co/xfMQD4V/Sem-T-tulo-1.png" alt="natalie-portman" border="0" width="24px"></h1>
 
 An ISTP person who's interest in know how things works and loves
-<br>design, astrophysics, underscovered music, movies and series.
+<br>📷 design, 🌌 astrophysics, 🎶 underscovered music, 🎬 movies and series.
 <br>
 <br>
 <a href="https://www.linkedin.com/in/samuel-r-costa">
@@ -24,6 +24,10 @@ An ISTP person who's interest in know how things works and loves
 &nbsp;
 <a href="https://open.spotify.com/user/12142320531?si=v3XenWCmREqTB3q6OEnJ1Q">
   <img src="https://img.icons8.com/ios-filled/50/000000/spotify.png" width="30px" alt="spotify">
+</a>
+&nbsp;
+<a href="https://www.tvtime.com/en/user/42321293/profile">
+  <img src="https://img.icons8.com/ios/50/000000/movie.png" width="30px" alt="tv show">
 </a>
 
 <br>💻 &nbsp; Atualmente estou: Estudando DevWeb.
