@@ -1,6 +1,6 @@
-<h1>Hello, stranger. <img src="https://i.ibb.co/xfMQD4V/Sem-T-tulo-1.png" alt="Sem-T-tulo-1" border="0" width="22px"></h1>
+<h1>Hello, stranger. <img src="https://i.ibb.co/xfMQD4V/Sem-T-tulo-1.png" alt="natalie-portman" border="0" width="24px"></h1>
 
-Apaixonado por design, astrofísica, e nas horas vagas, programo 👨‍💻
+An ISTP person who's interest in know how things works and loves design, astrophysics, underscovered music, [movies and series](https://www.tvtime.com/en/user/42321293/profile)
 
 <br>💻 &nbsp; Atualmente estou: Estudando DevWeb.
 <br>⌨️ &nbsp; Linguagens que utilizo: Python, MatLab, Java, HTML, CSS, JavaScript.
