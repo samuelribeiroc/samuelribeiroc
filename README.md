@@ -1,4 +1,4 @@
-### Hello, stranger. 👋
+### Hello, stranger. <img src="https://drive.google.com/file/d/1BQRuxFZsOfXqw-70zEbZJeWeWQsCtuYG/view?usp=sharing" width="22px">
 
 Apaixonado por design, astrofísica, e nas horas vagas, programo 👨‍💻
 
