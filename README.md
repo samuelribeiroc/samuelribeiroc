@@ -2,6 +2,21 @@
 
 An ISTP person who's interest in know how things works and loves
 <br>design, astrophysics, underscovered music, movies and series.
+<a href="https://www.linkedin.com/in/samuel-r-costa">
+  <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="30px" alt="linkedin">
+</a>
+<a href="mailto:samuel.costa@ccc.ufcg.edu.br">
+  <img src="https://img.icons8.com/ios/50/000000/important-mail.png" width="30px" alt="gmail">
+</a>
+<a href="https://www.instagram.com.br/samuelribc">
+  <img src="https://img.icons8.com/ios/50/000000/instagram-new.png" width="30px" alt="instagram">
+</a>
+<a href="https://www.last.fm/pt/user/semysky">
+  <img src="https://img.icons8.com/ios-filled/50/000000/lastfm.png" width="30px" alt="last fm">
+</a>
+<a href="https://open.spotify.com/user/12142320531?si=v3XenWCmREqTB3q6OEnJ1Q">
+  <img src="https://img.icons8.com/ios-filled/50/000000/spotify.png" width="30px" alt="spotify">
+</a>
 
 <br>💻 &nbsp; Atualmente estou: Estudando DevWeb.
 <br>⌨️ &nbsp; Linguagens que utilizo: Python, MatLab, Java, HTML, CSS, JavaScript.
