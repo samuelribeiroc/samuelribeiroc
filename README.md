@@ -1,6 +1,6 @@
 <h1>Hello, stranger. <img src="https://i.ibb.co/xfMQD4V/Sem-T-tulo-1.png" alt="natalie-portman" border="0" width="24px"></h1>
 
-<img src="https://i.ibb.co/6ySLNdc/undraw-web-developer-p3e5.png" alt="undraw-web-developer-p3e5" border="0" align="right" width="500px">
+<img src="https://i.ibb.co/6ySLNdc/undraw-web-developer-p3e5.png" alt="undraw-web-developer-p3e5" border="0" align="right" width="150px">
 
 An ISTP person who's interest in know how things works and loves
 <br>design, astrophysics, underscovered music, movies and series.
