@@ -2,14 +2,15 @@
 
 An ISTP person who's interest in know how things works and loves
 <br>design, astrophysics, underscovered music, movies and series.
+<br>
 <a href="https://www.linkedin.com/in/samuel-r-costa">
   <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="30px" alt="linkedin">
 </a>
 <a href="mailto:samuel.costa@ccc.ufcg.edu.br">
-  <img src="https://img.icons8.com/ios/50/000000/important-mail.png" width="30px" alt="gmail">
+  <img src="https://img.icons8.com/ios-filled/50/000000/important-mail.png" width="30px" alt="gmail">
 </a>
 <a href="https://www.instagram.com.br/samuelribc">
-  <img src="https://img.icons8.com/ios/50/000000/instagram-new.png" width="30px" alt="instagram">
+  <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" width="30px" alt="instagram">
 </a>
 <a href="https://www.last.fm/pt/user/semysky">
   <img src="https://img.icons8.com/ios-filled/50/000000/lastfm.png" width="30px" alt="last fm">
