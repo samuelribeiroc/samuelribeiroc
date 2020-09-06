@@ -1,4 +1,4 @@
-### Hello, stranger. <img src="https://drive.google.com/file/d/1BQRuxFZsOfXqw-70zEbZJeWeWQsCtuYG/view?usp=sharing" width="22px">
+### Hello, stranger. <img src="https://i.ibb.co/Z8rxkN8/Sem-T-tulo-1.png" alt="Sem-T-tulo-1" border="0">
 
 Apaixonado por design, astrofísica, e nas horas vagas, programo 👨‍💻
 
