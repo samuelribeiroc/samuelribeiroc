@@ -1,4 +1,4 @@
-<h1>Hello, stranger. <img src="https://i.ibb.co/xfMQD4V/Sem-T-tulo-1.png" alt="Sem-T-tulo-1" border="0" width="18px"></h1>
+<h1>Hello, stranger. <img src="https://i.ibb.co/xfMQD4V/Sem-T-tulo-1.png" alt="Sem-T-tulo-1" border="0" width="20px"></h1>
 
 Apaixonado por design, astrofísica, e nas horas vagas, programo 👨‍💻
 
