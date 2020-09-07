@@ -30,14 +30,14 @@ I'm a brazilian ISTP person who's interest in know how things works and loves
   <img src="https://img.icons8.com/ios/50/000000/movie.png" width="30px" alt="tv show">
 </a>
 
-<br>- My skills: 
-<img src="https://img.icons8.com/color/50/000000/python.png">
-<img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png">
-<img src="https://img.icons8.com/color/50/000000/html-5.png">
-<img src="https://img.icons8.com/color/50/000000/css3.png">
-<img src="https://img.icons8.com/color/50/000000/javascript.png">
-<br>- I can help you with OO programing in java and logic problems
-<br>- I love web development
-<br>- Pronouns: He/Him/His
+- My skills:
+<img src="https://img.icons8.com/color/50/000000/python.png" width="22px">
+<img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png" width="22px">
+<img src="https://img.icons8.com/color/50/000000/html-5.png" width="22px">
+<img src="https://img.icons8.com/color/50/000000/css3.png" width="22px">
+<img src="https://img.icons8.com/color/50/000000/javascript.png" width="22px">
+- I can help you with OO programing in java and logic problems
+- I love web development
+- Pronouns: He/Him/His
 
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelribeiroc&count_private=true&show_icons=true&line_height=30&&title_color=a36bff&text_color=424B54&icon_color=a36bff&bg_color=FFFEFE)
