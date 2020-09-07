@@ -2,7 +2,7 @@
 
 <h1>Hello, stranger. <img src="https://i.ibb.co/xfMQD4V/Sem-T-tulo-1.png" alt="natalie-portman" border="0" width="24px"></h1>
 
-An ISTP person who's interest in know how things works and loves
+I'm a brazilian ISTP person who's interest in know how things works and loves
 <br>📷 design, 🌌 astrophysics, 🎶 underscovered music, 🎬 movies and series.
 <br>
 <br>
@@ -30,7 +30,14 @@ An ISTP person who's interest in know how things works and loves
   <img src="https://img.icons8.com/ios/50/000000/movie.png" width="30px" alt="tv show">
 </a>
 
-<br>💻 &nbsp; Atualmente estou: Estudando DevWeb.
-<br>⌨️ &nbsp; Linguagens que utilizo: Python, MatLab, Java, HTML, CSS, JavaScript.
-<br>🔗 &nbsp; Posso te ajudar com: Layout de sites, lógica programacional e programação orientada a objetos.
-<br>⚧ &nbsp; Pronomes: Ele/Dele.
+<br>- My skills: 
+<img src="https://img.icons8.com/color/50/000000/python.png">
+<img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png">
+<img src="https://img.icons8.com/color/50/000000/html-5.png">
+<img src="https://img.icons8.com/color/50/000000/css3.png">
+<img src="https://img.icons8.com/color/50/000000/javascript.png">
+<br>- I can help you with OO programing in java and logic problems
+<br>- I love web development
+<br>- Pronouns: He/Him/His
+
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelribeiroc&count_private=true&show_icons=true&line_height=30&&title_color=a36bff&text_color=424B54&icon_color=a36bff&bg_color=FFFEFE)
