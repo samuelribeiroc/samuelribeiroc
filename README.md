@@ -1,10 +1,9 @@
-<img src="https://i.ibb.co/6ySLNdc/undraw-web-developer-p3e5.png" alt="undraw-web-developer-p3e5" border="0" align="right" width="300px">
+<img src="https://i.ibb.co/6ySLNdc/undraw-web-developer-p3e5.png" alt="undraw-web-developer-p3e5" border="0" align="right" width="250px">
 
 <h1>Hello, stranger. <img src="https://i.ibb.co/xfMQD4V/Sem-T-tulo-1.png" alt="natalie-portman" border="0" width="24px"></h1>
 
 I'm a brazilian ISTP person who's interest in know how things works and loves
 <br>📷 design, 🌌 astrophysics, 🎶 underscovered music, 🎬 movies and series.
-<br>
 <br>
 <br>
 <a href="https://www.linkedin.com/in/samuel-r-costa">
@@ -31,6 +30,7 @@ I'm a brazilian ISTP person who's interest in know how things works and loves
   <img src="https://img.icons8.com/ios/50/000000/movie.png" width="30px" alt="tv show">
 </a>
 <br>
+<br>
 
 <img src="https://i.ibb.co/KF4c0tM/undraw-launch-day-4e04.png" alt="undraw-launch-day-4e04" border="0" align="right" width="200px">
 
@@ -38,5 +38,7 @@ I'm a brazilian ISTP person who's interest in know how things works and loves
 - I can help you with OO programing in java and logic problems
 - I love web development
 - Pronouns: He/Him/His
+
+<img src="https://i.ibb.co/WPXW9p2/undraw-online-reading-np7n.png" alt="undraw-online-reading-np7n" border="0" align="right" width="200px">
 
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelribeiroc&count_private=true&show_icons=true&line_height=30&&title_color=a36bff&text_color=424B54&icon_color=a36bff&bg_color=FFFEFE)
