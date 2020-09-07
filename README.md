@@ -39,6 +39,6 @@ I'm a brazilian ISTP person who's interest in know how things works and loves
 - I love web development
 - Pronouns: He/Him/His
 
-<img src="https://i.ibb.co/WPXW9p2/undraw-online-reading-np7n.png" alt="undraw-online-reading-np7n" border="0" align="right" width="250px">
+<img src="https://i.ibb.co/WPXW9p2/undraw-online-reading-np7n.png" alt="undraw-online-reading-np7n" border="0" align="right" width="275px">
 
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelribeiroc&count_private=true&show_icons=true&line_height=30&&title_color=a36bff&text_color=424B54&icon_color=a36bff&bg_color=FFFEFE)
