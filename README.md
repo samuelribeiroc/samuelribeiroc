@@ -32,7 +32,7 @@ I'm a brazilian ISTP person who's interest in know how things works and loves
 <br>
 <br>
 
-<img src="https://i.ibb.co/KF4c0tM/undraw-launch-day-4e04.png" alt="undraw-launch-day-4e04" border="0" align="right" width="150px">
+<img src="https://i.ibb.co/KF4c0tM/undraw-launch-day-4e04.png" alt="undraw-launch-day-4e04" border="0" align="right" width="125px">
 
 - My skills: <img src="https://img.icons8.com/color/50/000000/python.png" width="22px"> <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png" width="22px"> <img src="https://img.icons8.com/color/50/000000/html-5.png" width="22px"> <img src="https://img.icons8.com/color/50/000000/css3.png" width="22px"> <img src="https://img.icons8.com/color/50/000000/javascript.png" width="22px"><br>
 - I can help you with OO programing in java and logic problems
