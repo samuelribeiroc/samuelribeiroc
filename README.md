@@ -6,6 +6,7 @@ I'm a brazilian ISTP person who's interest in know how things works and loves
 <br>📷 design, 🌌 astrophysics, 🎶 underscovered music, 🎬 movies and series.
 <br>
 <br>
+<br>
 <a href="https://www.linkedin.com/in/samuel-r-costa">
   <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="30px" alt="linkedin">
 </a>
@@ -29,6 +30,9 @@ I'm a brazilian ISTP person who's interest in know how things works and loves
 <a href="https://www.tvtime.com/en/user/42321293/profile">
   <img src="https://img.icons8.com/ios/50/000000/movie.png" width="30px" alt="tv show">
 </a>
+<br>
+
+<img src="https://i.ibb.co/KF4c0tM/undraw-launch-day-4e04.png" alt="undraw-launch-day-4e04" border="0" align="right" width="200px">
 
 - My skills: <img src="https://img.icons8.com/color/50/000000/python.png" width="22px"> <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png" width="22px"> <img src="https://img.icons8.com/color/50/000000/html-5.png" width="22px"> <img src="https://img.icons8.com/color/50/000000/css3.png" width="22px"> <img src="https://img.icons8.com/color/50/000000/javascript.png" width="22px"><br>
 - I can help you with OO programing in java and logic problems
