@@ -32,13 +32,13 @@ I'm a brazilian ISTP person who's interest in know how things works and loves
 <br>
 <br>
 
-<img src="https://i.ibb.co/KF4c0tM/undraw-launch-day-4e04.png" alt="undraw-launch-day-4e04" border="0" align="right" width="125px">
+<img src="https://i.ibb.co/KF4c0tM/undraw-launch-day-4e04.png" alt="undraw-launch-day-4e04" border="0" align="right" width="150px">
 
 - My skills: <img src="https://img.icons8.com/color/50/000000/python.png" width="22px"> <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png" width="22px"> <img src="https://img.icons8.com/color/50/000000/html-5.png" width="22px"> <img src="https://img.icons8.com/color/50/000000/css3.png" width="22px"> <img src="https://img.icons8.com/color/50/000000/javascript.png" width="22px"><br>
 - I can help you with OO programing in java and logic problems
 - I love web development
 - Pronouns: He/Him/His
 
-<img src="https://i.ibb.co/WPXW9p2/undraw-online-reading-np7n.png" alt="undraw-online-reading-np7n" border="0" align="right" width="200px">
+<img src="https://i.ibb.co/WPXW9p2/undraw-online-reading-np7n.png" alt="undraw-online-reading-np7n" border="0" align="right" width="250px">
 
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelribeiroc&count_private=true&show_icons=true&line_height=30&&title_color=a36bff&text_color=424B54&icon_color=a36bff&bg_color=FFFEFE)
