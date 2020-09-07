@@ -34,10 +34,10 @@ I'm a brazilian ISTP person who's interest in know how things works and loves
 
 <img src="https://i.ibb.co/KF4c0tM/undraw-launch-day-4e04.png" alt="astronaut" border="0" align="right" width="150px">
 
-- My skills: <img src="https://img.icons8.com/color/50/000000/python.png" width="22px" alt="python"> <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png" width="22px" alt="java"> <img src="https://img.icons8.com/color/50/000000/html-5.png" width="22px" alt="html 5"> <img src="https://img.icons8.com/color/50/000000/css3.png" width="22px" alt="css 3"> <img src="https://img.icons8.com/color/50/000000/javascript.png" width="22px" alt="javascript"><br>
-- I can help you with OO programing in java and logic problems
-- I love web development
-- Pronouns: He/Him/His
+- 👨🏽‍💻 My skills: <img src="https://img.icons8.com/color/50/000000/python.png" width="22px" alt="python"> <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png" width="22px" alt="java"> <img src="https://img.icons8.com/color/50/000000/html-5.png" width="22px" alt="html 5"> <img src="https://img.icons8.com/color/50/000000/css3.png" width="22px" alt="css 3"> <img src="https://img.icons8.com/color/50/000000/javascript.png" width="22px" alt="javascript"><br>
+- 🤝🏽 I can help you with OO programing in java and logic problems
+- 💻 I love web development
+- 🧑🏽 Pronouns: He/Him/His
 <br>
 
 <img src="https://i.ibb.co/WPXW9p2/undraw-online-reading-np7n.png" alt="programer 2" border="0" align="right" width="275px">
