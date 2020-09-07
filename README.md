@@ -3,7 +3,7 @@
 <h1>Hello, stranger. <img src="https://i.ibb.co/xfMQD4V/Sem-T-tulo-1.png" alt="natalie-portman" border="0" width="24px"></h1>
 
 I'm a brazilian ISTP person who's interest in know how things works and loves
-<br>📷 design, 🌌 astrophysics, 🎶 underscovered music, 🎬 movies and series.
+<br>📷 design, 🔭 astrophysics, 🎶 underscovered music, 🎬 movies and series.
 <br>
 <br>
 <a href="https://www.linkedin.com/in/samuel-r-costa">
