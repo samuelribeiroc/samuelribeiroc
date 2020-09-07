@@ -7,27 +7,27 @@ I'm a brazilian ISTP person who's interest in know how things works and loves
 <br>
 <br>
 <a href="https://www.linkedin.com/in/samuel-r-costa">
-  <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="30px" alt="linkedin">
+  <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="24px" alt="linkedin">
 </a>
 &nbsp;
 <a href="mailto:samuel.costa@ccc.ufcg.edu.br">
-  <img src="https://img.icons8.com/ios-filled/50/000000/important-mail.png" width="30px" alt="gmail">
+  <img src="https://img.icons8.com/ios-filled/50/000000/important-mail.png" width="24px" alt="gmail">
 </a>
 &nbsp;
 <a href="https://www.instagram.com.br/samuelribc">
-  <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" width="30px" alt="instagram">
+  <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" width="24px" alt="instagram">
 </a>
 &nbsp;
 <a href="https://www.last.fm/pt/user/semysky">
-  <img src="https://img.icons8.com/ios-filled/50/000000/lastfm.png" width="30px" alt="last fm">
+  <img src="https://img.icons8.com/ios-filled/50/000000/lastfm.png" width="24px" alt="last fm">
 </a>
 &nbsp;
 <a href="https://open.spotify.com/user/12142320531?si=v3XenWCmREqTB3q6OEnJ1Q">
-  <img src="https://img.icons8.com/ios-filled/50/000000/spotify.png" width="30px" alt="spotify">
+  <img src="https://img.icons8.com/ios-filled/50/000000/spotify.png" width="24px" alt="spotify">
 </a>
 &nbsp;
 <a href="https://www.tvtime.com/en/user/42321293/profile">
-  <img src="https://img.icons8.com/ios/50/000000/movie.png" width="30px" alt="tv show">
+  <img src="https://img.icons8.com/ios/50/000000/movie.png" width="24px" alt="tv show">
 </a>
 <br>
 <br>
@@ -39,6 +39,6 @@ I'm a brazilian ISTP person who's interest in know how things works and loves
 - I love web development
 - Pronouns: He/Him/His
 
-<img src="https://i.ibb.co/WPXW9p2/undraw-online-reading-np7n.png" alt="undraw-online-reading-np7n" border="0" align="right" width="200px">
-
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelribeiroc&count_private=true&show_icons=true&line_height=30&&title_color=a36bff&text_color=424B54&icon_color=a36bff&bg_color=FFFEFE)
+
+<img src="https://i.ibb.co/WPXW9p2/undraw-online-reading-np7n.png" alt="undraw-online-reading-np7n" border="0" align="right" width="200px">
