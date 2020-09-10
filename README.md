@@ -7,27 +7,27 @@ I'm a brazilian ISTP person who's interested in knowing how things work and love
 <br>
 <br>
 <a href="https://www.linkedin.com/in/samuel-r-costa">
-  <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="24px" alt="linkedin" align="center">
+  <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="24px" alt="linkedin" align="center" border="1px">
 </a>
 &nbsp;
 <a href="mailto:samuel.costa@ccc.ufcg.edu.br">
-  <img src="https://img.icons8.com/ios-filled/50/000000/important-mail.png" width="24px" alt="gmail" align="center">
+  <img src="https://img.icons8.com/ios-filled/50/000000/important-mail.png" width="24px" alt="gmail" align="center" border="1px">
 </a>
 &nbsp;
 <a href="https://www.instagram.com.br/samuelribc">
-  <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" width="24px" alt="instagram" align="center">
+  <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" width="24px" alt="instagram" align="center" border="1px">
 </a>
 &nbsp;
 <a href="https://www.last.fm/pt/user/semysky">
-  <img src="https://img.icons8.com/ios-filled/50/000000/lastfm.png" width="24px" alt="last fm" align="center">
+  <img src="https://img.icons8.com/ios-filled/50/000000/lastfm.png" width="24px" alt="last fm" align="center" border="1px">
 </a>
 &nbsp;
 <a href="https://open.spotify.com/user/12142320531?si=v3XenWCmREqTB3q6OEnJ1Q">
-  <img src="https://img.icons8.com/ios-filled/50/000000/spotify.png" width="24px" alt="spotify" align="center">
+  <img src="https://img.icons8.com/ios-filled/50/000000/spotify.png" width="24px" alt="spotify" align="center" border="1px">
 </a>
 &nbsp;
 <a href="https://www.tvtime.com/en/user/42321293/profile">
-  <img src="https://img.icons8.com/ios/50/000000/movie.png" width="24px" alt="tv show" align="center">
+  <img src="https://img.icons8.com/ios/50/000000/movie.png" width="24px" alt="tv show" align="center" border="1px">
 </a>
 <br>
 <br>
