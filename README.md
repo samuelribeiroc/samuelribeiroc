@@ -42,4 +42,4 @@ I'm a brazilian ISTP person who's interested in knowing how things work and love
 
 <img src="https://i.ibb.co/WPXW9p2/undraw-online-reading-np7n.png" alt="programer 2" border="0" align="right" width="275px">
 
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelribeiroc&count_private=true&show_icons=true&line_height=30&&title_color=a36bff&text_color=424B54&icon_color=a36bff&bg_color=FFFEFE)
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelribeiroc&count_private=true&show_icons=true&line_height=30&&title_color=a36bff&text_color=FFFFFF&icon_color=a36bff&bg_color=2f2e41)
