@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/6ySLNdc/undraw-web-developer-p3e5.png" alt="programer 1" border="0" align="right" width="250px">
 
-<h1>Hello, stranger. <img src="https://i.ibb.co/xfMQD4V/Sem-T-tulo-1.png" alt="natalie-portman" border="0" width="24px"></h1>
+<h1>Hello, stranger. <img src="https://i.imgur.com/2PLaXGQ.png" alt="natalie-portman" border="0" width="24px"></h1>
 
 I'm a brazilian ISTP person who's interested in knowing how things work and loves
 <br>📷 design, 🔭 astrophysics, 🎶 underscovered music, 🎬 movies and series.
