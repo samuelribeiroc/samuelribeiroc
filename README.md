@@ -39,8 +39,6 @@ I'm a brazilian ISTP person who's interested in knowing how things work and love
 - 💻 I have an affinity with: Web development
 - 🧑🏽 Pronouns: He/Him/His
 <br>
-<br>
-<br>
 
 <img src="https://i.imgur.com/qIryRth.png" alt="programer 2" border="0" align="right" width="275px">
 
