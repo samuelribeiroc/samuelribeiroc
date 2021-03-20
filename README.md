@@ -8,7 +8,7 @@ I'm a brazilian ISTP person who's interested in knowing how things work and love
 <br>
 
 <a href="https://www.linkedin.com/in/samuel-r-costa">
-  <img src="https://i.imgur.com/CiqBN9q.png" width="48px" alt="linkedin" align="center">
+  <img src="https://i.imgur.com/neFe9a7.png" width="48px" alt="linkedin" align="center">
 </a>
 <a href="mailto:samuel.costa@ccc.ufcg.edu.br">
   <img src="https://img.icons8.com/ios-filled/50/000000/important-mail.png" width="24px" alt="gmail" align="center">
