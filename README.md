@@ -40,6 +40,6 @@ I'm a brazilian ISTP person who's interested in knowing how things work and love
 - 🧑🏽 Pronouns: He/Him/His
 <br>
 
-<img src="https://i.imgur.com/pZg9Sfd.png" alt="programer 2" border="0" align="right" width="275px">
+<img src="https://i.imgur.com/qIryRth.png" alt="programer 2" border="0" align="right" width="300px">
 
 ![Samuel's GitHub stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=samuelribeiroc&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=a36bff&icon_color=a36bff&bg_color=0D1117)
