@@ -27,7 +27,7 @@ I'm a brazilian ISTP person who's interested in knowing how things work and love
 <br>
 <br>
 
-<img src="https://i.imgur.com/jYFiSP9.png" alt="astronaut" border="0" align="right" width="150px">
+<img src="https://i.imgur.com/jYFiSP9.png" alt="astronaut" border="0" align="right" width="175px">
 <br>
 
 - 👨🏽‍💻 My skills: <img src="https://img.icons8.com/color/50/000000/python.png" width="22px" alt="python"> <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png" width="22px" alt="java"> <img src="https://img.icons8.com/color/50/000000/html-5.png" width="22px" alt="html 5"> <img src="https://img.icons8.com/color/50/000000/css3.png" width="22px" alt="css 3"> <img src="https://img.icons8.com/color/50/000000/javascript.png" width="22px" alt="javascript"><br>
