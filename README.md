@@ -22,7 +22,7 @@ I'm a brazilian ISTP person who's interested in knowing how things work and love
   <img src="https://i.imgur.com/PKAOXM4.png" width="38px" alt="spotify" align="center">
 </a>
 <a href="https://www.tvtime.com/en/user/42321293/profile">
-  <img src="https://i.imgur.com/z57xFic.png" width="20px" alt="tv show" align="center">
+  <img src="https://i.imgur.com/oSiqKdp.png" width="38px" alt="tv show" align="center">
 </a>
 <br>
 <br>
