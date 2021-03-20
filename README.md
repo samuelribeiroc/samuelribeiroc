@@ -7,19 +7,19 @@ I'm a brazilian ISTP person who's interested in knowing how things work and love
 <br>
 
 <a href="https://www.linkedin.com/in/samuel-r-costa">
-  <img src="https://i.imgur.com/lT6y6Fv.png" width="38px" alt="linkedin" align="center">
+  <img src="https://i.imgur.com/Nl0kcSF.png" width="48px" alt="linkedin" align="center">
 </a>
 <a href="mailto:samuel.costa@ccc.ufcg.edu.br">
-  <img src="https://i.imgur.com/WoEPrUU.png" width="38px" alt="gmail" align="center">
+  <img src="https://i.imgur.com/tMRAOlp.png" width="48px" alt="gmail" align="center">
 </a>
 <a href="https://www.instagram.com.br/samuelribc">
-  <img src="https://i.imgur.com/jlhmV3c.png" width="38px" alt="instagram" align="center">
+  <img src="https://i.imgur.com/AIvh5sA.png" width="48px" alt="instagram" align="center">
 </a>
 <a href="https://www.last.fm/pt/user/semysky">
-  <img src="https://i.imgur.com/KIUiDU0.png" width="38px" alt="last fm" align="center">
+  <img src="https://i.imgur.com/F6P17JP.png" width="48px" alt="last fm" align="center">
 </a>
 <a href="https://open.spotify.com/user/12142320531?si=v3XenWCmREqTB3q6OEnJ1Q">
-  <img src="https://i.imgur.com/PKAOXM4.png" width="38px" alt="spotify" align="center">
+  <img src="https://i.imgur.com/PHI7Mvs.png" width="48px" alt="spotify" align="center">
 </a>
 <a href="https://www.tvtime.com/en/user/42321293/profile">
   <img src="https://i.imgur.com/zM4h3of.png" width="48px" alt="tv show" align="center">
