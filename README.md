@@ -30,7 +30,7 @@ I'm a brazilian ISTP person who's interested in knowing how things work and love
 <img src="https://i.imgur.com/nBaynaU.png" alt="astronaut" border="0" align="right" width="180px">
 <br>
 
-- ```👨🏽‍💻 My skills:``` <img src="https://i.imgur.com/M9ZEKIW.png" width="30px" alt="python"> <img src="https://i.imgur.com/LOBMk0u.png" width="30px" alt="java"> <img src="https://i.imgur.com/c7Ug2Td.png" width="30px" alt="html 5"> <img src="https://i.imgur.com/G911YVk.png" width="30px" alt="css 3"> <img src="https://i.imgur.com/nBw7DDN.png" width="30px" alt="javascript"> <img src="https://i.imgur.com/WjJotCc.png" width="30px" alt="typescript"> <img src="https://i.imgur.com/foyROPW.png" width="30px" alt="react"> <img src="https://i.imgur.com/STiZGrG.png" width="30px" alt="node"> <img src="https://i.imgur.com/455jchj.png" width="30px" alt="spring">
+- ```👨🏽‍💻 My skills:``` <img src="https://i.imgur.com/M9ZEKIW.png" width="22px" alt="python"> <img src="https://i.imgur.com/LOBMk0u.png" width="22px" alt="java"> <img src="https://i.imgur.com/c7Ug2Td.png" width="22px" alt="html 5"> <img src="https://i.imgur.com/G911YVk.png" width="22px" alt="css 3"> <img src="https://i.imgur.com/nBw7DDN.png" width="22px" alt="javascript"> <img src="https://i.imgur.com/WjJotCc.png" width="22px" alt="typescript"> <img src="https://i.imgur.com/foyROPW.png" width="22px" alt="react"> <img src="https://i.imgur.com/STiZGrG.png" width="22px" alt="node"> <img src="https://i.imgur.com/455jchj.png" width="22px" alt="spring">
 - ```🤝🏽 I can help you with:``` Java OOP and Data Structures
 - ```💻 I have an affinity with:``` Web Development
 - ```🧑🏽 Pronouns:``` He/Him/His
