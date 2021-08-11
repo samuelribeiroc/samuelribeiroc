@@ -32,7 +32,7 @@ I'm a brazilian ISTP person who's interested in knowing how things work and love
 
 - ```👨🏽‍💻 My skills:``` <img src="https://i.imgur.com/M9ZEKIW.png" width="22px" alt="python"> <img src="https://i.imgur.com/LOBMk0u.png" width="22px" alt="java"> <img src="https://i.imgur.com/c7Ug2Td.png" width="22px" alt="html 5"> <img src="https://i.imgur.com/G911YVk.png" width="22px" alt="css 3"> <img src="https://i.imgur.com/nBw7DDN.png" width="22px" alt="javascript"> <img src="https://i.imgur.com/WjJotCc.png" width="22px" alt="typescript"> <img src="https://i.imgur.com/foyROPW.png" width="22px" alt="react"> <img src="https://i.imgur.com/STiZGrG.png" width="22px" alt="node"> <img src="https://i.imgur.com/455jchj.png" width="22px" alt="spring">
 - ```🤝🏽 I can help you with:``` Java OOP and Data Structures
-- ```💻 I'm currently working with:``` Data Science and Machine Learning
+- ```💻 I'm currently working with:``` Data Science and Web Development
 - ```🧑🏽 Pronouns:``` He/Him/His
 <br>
 
