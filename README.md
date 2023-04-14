@@ -12,18 +12,6 @@ I'm a brazilian ISTP person who's interested in knowing how things work and love
 <a href="mailto:samuel.costa@ccc.ufcg.edu.br">
   <img src="https://i.imgur.com/tMRAOlp.png" width="48px" alt="gmail" align="center">
 </a>
-<a href="https://www.instagram.com.br/smlrbc">
-  <img src="https://i.imgur.com/AIvh5sA.png" width="48px" alt="instagram" align="center">
-</a>
-<a href="https://www.last.fm/pt/user/semysky">
-  <img src="https://i.imgur.com/F6P17JP.png" width="48px" alt="last fm" align="center">
-</a>
-<a href="https://open.spotify.com/user/12142320531?si=v3XenWCmREqTB3q6OEnJ1Q">
-  <img src="https://i.imgur.com/PHI7Mvs.png" width="48px" alt="spotify" align="center">
-</a>
-<a href="https://www.tvtime.com/en/user/42321293/profile">
-  <img src="https://i.imgur.com/zM4h3of.png" width="48px" alt="tv show" align="center">
-</a>
 <br>
 <br>
 
